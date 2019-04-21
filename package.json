@@ -1,0 +1,22 @@
+{
+  "name": "view-counter-example",
+  "version": "1.0.0",
+  "description": "An example of a view counter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karuppiah7890/view-counter-example.git"
+  },
+  "author": "Karuppiah N",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karuppiah7890/view-counter-example/issues"
+  },
+  "homepage": "https://github.com/karuppiah7890/view-counter-example#readme",
+  "dependencies": {
+    "mock-xmlhttprequest": "^4.4.0"
+  }
+}
